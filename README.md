@@ -1,5 +1,4 @@
-# gendered_authorship
-
+# The gendered nature of authorship
 The data repository for "The gendered nature of authorship".
 
 Chaoqun Ni, Elise Smith, Haimiao Yuan, Vincent Larivière, Cassidy R. Sugimoto
